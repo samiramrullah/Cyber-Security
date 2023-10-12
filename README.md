@@ -29,3 +29,12 @@ With the start of the Internet in the late 1960s, known then as the ARPANET came
 
 
 ***In September of 1983 when MIT was granted a patent that introduced the RSA (Rivest-Shamir-Adleman) algorithm, which was one of the first public key cryptosystems***
+
+
+# Security Trends
+
+* Phishing: A technique for attempting to acquire sensitive data, such as bank account numbers, through a fraudulent solicitation in email or on a web site, in which the perpetrator masquerades as a legitimate business or reputable person. <br><br>
+* Malware: Software or firmware intended to perform an unauthorized process that will have an adverse impact on the confidentiality, integrity, or availability of an information system. A virus, worm, Trojan horse, or other code-based entity that infects a host. Spyware and some forms of adware are also examples of malicious code.  <br><br>
+* Ransomware: A type of malicious software designed to block access to a computer system until a sum of money is paid.  <br><br>
+* Business Email Compromise: An exploit in which an attacker obtains access to a business email account and imitates the owner's identity, in order to defraud the company and its employees, customers or partners.  <br><br>
+* Internet of Things: The interconnection via the Internet of computing devices embedded in everyday objects, enabling them to send and receive data.
