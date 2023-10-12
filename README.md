@@ -25,6 +25,3 @@ With the start of the Internet in the late 1960s, known then as the ARPANET came
 - 1986 - US Computer Fraud and Abuse Act (CFAA)
 - 1990 - UK Computer Misuse Act
 - 2001 - Advanced Encryption Standard (AES) established by NIST
-
-
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF0XeQe9c7t+vdwkDXf9JWgfOKublv8egi53Iv+UQd7G samiramrullah@gmail.com
