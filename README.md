@@ -38,3 +38,9 @@ With the start of the Internet in the late 1960s, known then as the ARPANET came
 * Ransomware: A type of malicious software designed to block access to a computer system until a sum of money is paid.  <br><br>
 * Business Email Compromise: An exploit in which an attacker obtains access to a business email account and imitates the owner's identity, in order to defraud the company and its employees, customers or partners.  <br><br>
 * Internet of Things: The interconnection via the Internet of computing devices embedded in everyday objects, enabling them to send and receive data.
+
+<br><br><br>
+
+![Alt text](image-2.png)
+
+[World Biggest Data breaches visulization](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
