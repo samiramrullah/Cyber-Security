@@ -61,3 +61,16 @@ From the 2020 Verizon Data Breach Investigations Report:
 
 Link for the website: <br>
 [Cybersecurity pathways](https://www.cyberseek.org/pathway.html)
+
+# Security Principles
+
+* Economy of mechanism -> Economy of Mechanism means to keep things small and simple.
+* Fail-safe defaults
+* Complete mediation
+* Open design
+* Separation of privilege
+* Least privilege
+* Least common mechanism
+* User-friendly interface <br> <br>
+
+![Alt text](image-4.png)
