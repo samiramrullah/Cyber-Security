@@ -173,7 +173,7 @@ Their best practices are made up of two parts:
 
 
 
-# Think like a hancker
+# Think like a Hacker
 
 ![Alt text](image-14.png)
 <br><br>
