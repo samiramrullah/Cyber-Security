@@ -73,6 +73,145 @@ Link for the website: <br>
 * Least common mechanism
 * User-friendly interface <br> <br>
 
-![Alt text](image-4.png)
+![Alt text](image-4.png) <br><br>
+
+# Rules Governing Cybersecurity
+- In the United States, that organization is the National Institute of Standards and Technology, also known as NIST. <br><br>
+- The International Organization for Standards or ISO works with the International Electrotechnical Commission or IEC to set worldwide technology standards. <br><br>
+- There are also governing bodies that set the rules for specific areas. For example, the Payment Card Industry (PCI) has the Data Security Standards that are required for any business accepting or handling credit card data. <br><br>
 
 
+
+# Governance and Compliance
+
+- Governance - A strategic planning responsibility providing organizational oversight that sets policies and establishes practices to enforcement. <br><br>
+- Compliance - Requirement all affected parties follow the same rules. <br><br>
+- Audit - Independent review and examination of records and activities to assess the adequacy of system controls, to ensure compliance with established policies and operational procedures. (NIST Glossary) <br><br>
+
+- Policies are the bedrock of a security program. Policies are: 
+   - Formal statements, rules or assertions that specify the correct or expected behavior of an entity.
+   - Example: Acceptable Use Policy (AUP)
+   - Enforcement and compliance
+   - Written and accessible
+
+
+# Security Frameworks
+## ISO 27000 Series
+
+1. ISO/IEC 27002:2013, The Code of Practice for Information Security Management
+2. ISO/IEC 27002:2013, The Code of Practice for Information Security Management <br>
+   - 14 security control groups
+   - 35 control objectives
+   - More than 110 individual controls
+
+3. ISO/IEC 27005:2011, ISMS Risk Management
+
+
+# Industry-Specific Regulations
+1. HIPAA Security and Privacy rules - Safeguarding Protected Health Information (PHI)
+2. Payment Card Industry Data Security Standard (PCI DSS) - Rules for processing, storing or transmitting Cardholder Data
+3. European Union’s General Data Privacy Regulation (GDPR) - EU’s law on data protection and privacy
+
+# NIST Special Publications SP 800 Series
+![Alt text](image-5.png)
+
+
+# NIST CSF
+
+The NIST Cybersecurity Framework helps to simplify the process of maturing an organization’s cybersecurity program.
+
+![Alt text](image-6.png)
+
+
+*The Framework Tiers describe how mature an organization is when it comes to cybersecurity technology, management, and operational practices.*
+
+![Alt text](image-7.png)
+
+
+The CSF Core is a set of cybersecurity activities organized into high-level functions and categories. Using non-technical and straightforward language, it provides a translation layer among multi-disciplinary teams.
+
+
+
+***The NIST CSF organizational Profile forms the company’s unique alignment of business objectives, threats, risks, and requirements. By comparing the current profile with a target profile, the company can identify the area to improve the cybersecurity.***
+
+![Alt text](image-8.png)
+
+
+## NIST CSF Core - Functions
+The NIST CSF five Functions or steps are Identify, Protect, Detect, Respond, and Recover.
+
+- Identify valuable company assets and data.
+- Protect valuable company assets and data from threats.
+- Detect when a cyber incident occurs.
+- Respond quickly and efficiently to a cyber incident.
+- Recover from an incident and get back to business
+
+![Alt text](image-9.png)
+
+![Alt text](image-10.png)
+
+
+# Center for Internet Security Best Practices
+
+Their best practices are made up of two parts:
+
+- The Critical Security Controls, also known as the CIS CSC or CIS Controls which are the top 20 activities for organizational security.
+- The CIS Benchmarks™ are guidelines to secure or lockdown operating systems, software, applications and networks
+
+
+ **The CIS Controls™ is separated into three functional areas that the CIS calls Implementation Groups**:
+
+- Basic Controls
+- Foundational Controls
+- Organizational Controls
+
+![Alt text](image-11.png)
+
+![Alt text](image-12.png)
+
+![Alt text](image-13.png)t
+
+
+
+# Think like a hancker
+
+![Alt text](image-14.png)
+<br><br>
+
+# Vulnerability Management
+
+![Alt text](image-15.png)
+
+
+
+
+# Glossary
+- Asset: A major application, general support system, high impact program, physical plant, mission-critical system, personnel, equipment, or a logically related group of systems.
+- Vulnerability: Weakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat.
+- Threat: Any circumstance or event with the potential to adversely impact organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, or the Nation through an information system via unauthorized access, destruction, disclosure, modification of information, and/or denial of service.
+- Exploit: A hardware or software tool designed to take advantage of a flaw in a computer system, typically for malicious purposes such as installing malware.
+- Risk: A measure of the extent to which an entity is threatened by a potential circumstance or event, and typically a function of: (i) the adverse impacts that would arise if the circumstance or event occurs; and (ii) the likelihood of occurrence.
+- Attack: Any kind of malicious activity that attempts to collect, disrupt, deny, degrade, or destroy information system resources or the information itself.
+- Penetration Testing: A test methodology in which assessors, typically working under specific constraints, attempt to circumvent or defeat the security features of an information system. <br> <br> <br>
+ 
+ 
+# Security Defenses
+
+![Alt text](image-16.png)
+
+
+# Layering Protection
+
+![Alt text](image-17.png)
+
+
+# Multi Factor Auth:
+This is **MFA**.
+- What you know
+- what you are
+- what you have
+
+
+**Patch**: A software or code revision, is used to fix some type of issue, whether it’s with functionality, security or to add new features
+
+![Alt text](image-18.png)
