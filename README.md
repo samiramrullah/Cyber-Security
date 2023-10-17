@@ -190,7 +190,9 @@ Their best practices are made up of two parts:
 - **Vulnerability**: Weakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat.
 - **Threat**: Any circumstance or event with the potential to adversely impact organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, or the Nation through an information system via unauthorized access, destruction, disclosure, modification of information, and/or denial of service.
 - **Exploit**: A hardware or software tool designed to take advantage of a flaw in a computer system, typically for malicious purposes such as installing malware.
-- **Risk**: A measure of the extent to which an entity is threatened by a potential circumstance or event, and typically a function of: (i) the adverse impacts that would arise if the circumstance or event occurs; and (ii) the likelihood of occurrence.
+- **Risk**: A measure of the extent to which an entity is threatened by a potential circumstance or event, and typically a function of: 
+  - (i) the adverse impacts that would arise if the circumstance or event occurs; and 
+  - (ii) the likelihood of occurrence.
 - **Attack**: Any kind of malicious activity that attempts to collect, disrupt, deny, degrade, or destroy information system resources or the information itself.
 - Penetration Testing: A test methodology in which assessors, typically working under specific constraints, attempt to circumvent or defeat the security features of an information system. <br> <br> <br>
  
