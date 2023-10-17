@@ -51,7 +51,7 @@ From the 2020 Verizon Data Breach Investigations Report:
 - 70% of attacks were perpetrated by outsiders and 34% involved internal actors.
 - 45% of breaches featured Hacking, 22% included social attacks, and 17% involved malware. 86% of the breaches were financially motivated
 - 72% of victims were large businesses and 28% were small businesses.
-- Even though these values change over time, the general concepts have remained steady. Take time to understand this report as it's used throughout the cybersecurity industry.
+***Even though these values change over time, the general concepts have remained steady. Take time to understand this report as it's used throughout the cybersecurity industry.***
 
 # Cybersecurity Skills Gap
 - 66 % say it's difficult to retain cybersecurity talent
