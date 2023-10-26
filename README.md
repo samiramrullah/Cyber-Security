@@ -195,7 +195,8 @@ Their best practices are made up of two parts:
   - (ii) the likelihood of occurrence.
 - **Attack**: Any kind of malicious activity that attempts to collect, disrupt, deny, degrade, or destroy information system resources or the information itself.
 - Penetration Testing: A test methodology in which assessors, typically working under specific constraints, attempt to circumvent or defeat the security features of an information system. <br> <br> <br>
- 
+  <br>
+  <br> <br>
  
 # Security Defenses
 
@@ -569,3 +570,17 @@ Typically, there are 5 options for risk treatment:
 * Capitalize – The capitalize option is normally reserved for financial or business risk where there is opportunity to take on additional risk for potential gains
 
 ![Alt text](image-69.png)
+
+
+
+
+# Compliance
+
+![Alt text](image-70.png)
+
+![Alt text](image-71.png)
+
+
+**Audit**: An evaluation of whether processes and procedures are operating as expected
+
+![Alt text](image-72.png)
